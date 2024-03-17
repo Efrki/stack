@@ -14,3 +14,4 @@ class Stack:
             return True
         else:
             return False
+#Доделать
